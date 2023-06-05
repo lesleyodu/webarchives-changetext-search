@@ -1,0 +1,19 @@
+body {
+    font-family: Open Sans;
+}
+
+.title {
+    font-size: 20px;
+}
+
+a {
+    color: #4e7878; 
+}
+a:visited {
+    color:#551A8B;
+}
+
+hr {
+    border: 1px solid #cedbdb;
+    background: #cedbdb;
+}
