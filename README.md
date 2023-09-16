@@ -22,6 +22,8 @@ The system is composed of different levels.
 * Additional data may be located at <a href="https://github.com/phonedude/cs895-f22/tree/main/assignments/frew/week-14-extending-edgi">cs895-f22</a>
 
 ## References
-Lesley Frew, Michael L. Nelson, and Michele C. Weigle, “Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives,” In Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL). June 2023.
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, “Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives,” In Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL). June 2023. Best Student Paper Award.
 
 <a href="https://arxiv.org/abs/2305.00546">Preprint</a> available at arxiv.
+
+<a href="https://docs.google.com/presentation/d/1eqOxDEq87rztVCYx-ywdfoymqYSe6CjuXoPOjo627jE/edit?usp=sharing">Slides</a> from JCDL 2023.
