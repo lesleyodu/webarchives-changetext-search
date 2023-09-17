@@ -22,8 +22,8 @@ The system is composed of different levels.
 * Additional data may be located at <a href="https://github.com/phonedude/cs895-f22/tree/main/assignments/frew/week-14-extending-edgi">cs895-f22</a>
 
 ## References
-Lesley Frew, Michael L. Nelson, and Michele C. Weigle, “Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives,” In Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL). June 2023. Best Student Paper Award.
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle, “Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives,” In Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL). June 2023. Best Student Paper Award. (<a href="https://arxiv.org/abs/2305.00546">arxiv pre-print</a>, <a href="https://docs.google.com/presentation/d/1eqOxDEq87rztVCYx-ywdfoymqYSe6CjuXoPOjo627jE/edit?usp=sharing">slides</a>)
 
-<a href="https://arxiv.org/abs/2305.00546">Preprint</a> available at arxiv.
-
-<a href="https://docs.google.com/presentation/d/1eqOxDEq87rztVCYx-ywdfoymqYSe6CjuXoPOjo627jE/edit?usp=sharing">Slides</a> from JCDL 2023.
+Animation demo blog entries:
+* [2023-08-21: Animating Changes in Webpages: Virginia Department of Health](https://ws-dl.blogspot.com/2023/08/2023-08-21-animating-changes-in.html)
+* [2023-02-26: Animating Changes in Webpages, Featuring George Santos's Biography](https://ws-dl.blogspot.com/2023/02/2023-02-26-animating-changes-in.html)
